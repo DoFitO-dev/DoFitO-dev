@@ -21,9 +21,13 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DoFitO-dev&style=flat-square&color=blue" alt=""/>
   <h1>
-    hey there
+    Hello there!
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+</div>
+
+<div align="center">
+  <img src="https://i.pinimg.com/originals/37/b4/ee/37b4ee2543c50fa833db1ba98c0fa3b1.gif" width="600" height="300"/>
 </div>
 
 
