@@ -27,7 +27,12 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/99/b6/39/99b639b25e959d2acf340616f9055470.gif" width="600" height="300"/>
+  <img src="https://camo.githubusercontent.com/52cb4bb059b91310261d327a11e137f19fb76f971b5f8526d2a56eb598a4fe4a/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f574941584b4544503852304942534158556b2f67697068792e676966" width="400"/>
 </div>
+
+---
+
+### :man_technologist: About Me :
+👋 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
