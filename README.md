@@ -27,7 +27,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/37/b4/ee/37b4ee2543c50fa833db1ba98c0fa3b1.gif" width="600" height="300"/>
+  <img src="https://i.pinimg.com/originals/99/b6/39/99b639b25e959d2acf340616f9055470.gif" width="600" height="300"/>
 </div>
 
 
