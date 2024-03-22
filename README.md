@@ -40,7 +40,7 @@
 
 - ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- 📫 How to reach me: kavshenoy01@gmail.com <-- Business E-mail
 
 ---
 
@@ -50,3 +50,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 </div>
+
+---
+
+### :fire: My Stats :
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DoFitO-dev&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
