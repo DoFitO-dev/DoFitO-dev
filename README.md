@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
   
-  <a href="www.instagram.com/dofito20">
+  <a href="https://www.instagram.com/dofito20">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram&color=%23F7F7F7" alt="Instagram"/>
   </a>
   
