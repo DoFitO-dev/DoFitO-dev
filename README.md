@@ -34,13 +34,13 @@
 
 ### :man_technologist: About Me :
 - 👋 I am a Part Time Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- 🔭 I’m 14 years old, studying in Toc-H Public School in Kerala.
 
-- 🌱 Exploring Technical Content Writing.
+- 🌱 Exploring Artificial Intelligence and new technologies.
 
-- ⚡ In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- ⚡ In my free time, I like to learn more about new programming languages and read tech articles.
 
-- 📫 How to reach me: kavshenoy01@gmail.com <-- Business E-mail
+- 📫 How to reach me: dofit000@gmail.com <-- Business E-mail
 
 ---
 
