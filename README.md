@@ -9,11 +9,11 @@
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=Instagram&color=%23F7F7F7" alt="Instagram"/>
   </a>
   
-  <a href="">
+  <a href="https://www.youtube.com/@dofii2o">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 
-  <a href="">
+  <a href="https://discord.gg/wsJe4TdfEZ">
     <img src="https://img.shields.io/badge/Discord-%237289d9?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
