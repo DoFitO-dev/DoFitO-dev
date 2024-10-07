@@ -34,7 +34,7 @@
 
 ### :man_technologist: About Me :
 - 👋 I am a Part Time Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🔭 I’m 14 years old, studying in Toc-H Public School in Kerala.
+- 🔭 I’m currently studying in Kerala.
 
 - 🌱 Exploring Artificial Intelligence and new technologies.
 
