@@ -1,4 +1,4 @@
-<div id="header" align="center">
+![image](https://github.com/user-attachments/assets/1ef3c429-4e92-40b2-ba6c-5e028655a8a1)<div id="header" align="center">
   <img src="https://theprintedcat.com/wp-content/uploads/2021/08/keyboard-cat-transp2.gif" width="200"/>
   
 </div>
@@ -49,6 +49,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png";
 </div>
 
 ---
