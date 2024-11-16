@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/1ef3c429-4e92-40b2-ba6c-5e028655a8a1)<div id="header" align="center">
-  <img src="https://theprintedcat.com/wp-content/uploads/2021/08/keyboard-cat-transp2.gif" width="200"/>
+ <img src="https://theprintedcat.com/wp-content/uploads/2021/08/keyboard-cat-transp2.gif" width="200"/>
   
 </div>
 
