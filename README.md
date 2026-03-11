@@ -36,7 +36,6 @@
 
 - 📫 How to reach me: dofit000@gmail.com <-- Business E-mail
 
----
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -46,7 +45,6 @@
   <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" title="Python" alt="Python" width="40" height="40";&nbsp/>
 </div>
 
----
 
 ### :fire: My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=DoFitO-dev&theme=kanagawa-paper)](https://git.io/streak-stats)
