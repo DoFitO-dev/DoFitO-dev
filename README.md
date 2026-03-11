@@ -25,11 +25,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
-
-<div align="center">
-  <img src="https://camo.githubusercontent.com/52cb4bb059b91310261d327a11e137f19fb76f971b5f8526d2a56eb598a4fe4a/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f574941584b4544503852304942534158556b2f67697068792e676966" width="400"/>
-</div>
-
 ---
 
 ### :man_technologist: About Me :
@@ -55,4 +50,4 @@
 ---
 
 ### :fire: My Stats :
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DoFitO-dev&theme=dark&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=DoFitO-dev&theme=kanagawa-paper)](https://git.io/streak-stats)
